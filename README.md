@@ -18,7 +18,7 @@ Python scripts that restore colors lost when converting `.ifc` files to `.dae` (
 
 - [realXtend/tundra](https://github.com/realXtend/tundra) — contributed to this open-source 3D virtual world engine.
 
-## Working on
+## Hobbyist project I'm working on
 
 ![Stock Chart App](https://github.com/mattire/mattire/raw/main/StockChartApp.png)
 
