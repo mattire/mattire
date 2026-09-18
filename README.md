@@ -7,6 +7,9 @@ Developer working with financial data APIs and .NET/WPF desktop applications.
 **[SimpleWpfPropertyGrid](https://github.com/mattire/SimpleWpfPropertyGrid)**
 A lightweight WPF property grid control.
 
+**[ShortcutKeysLibExampleApp](https://github.com/mattire/ShortcutKeysLibExampleApp)**
+Example application using shortcut keys library, see the project below
+
 **[ShortcutkeysLib](https://github.com/mattire/ShortcutkeysLib)**
 A library for managing keyboard shortcuts, with an accompanying example app (replace this link with its actual repo name/URL).
 
