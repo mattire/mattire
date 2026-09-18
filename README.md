@@ -20,6 +20,7 @@ Python scripts that restore colors lost when converting `.ifc` files to `.dae` (
 
 ## Hobbyist project I'm working on
 
+StockChartApp is project in private repo
 ![Stock Chart App](https://github.com/mattire/mattire/raw/main/StockChartApp.png)
 
 ## 📫 Reach me
