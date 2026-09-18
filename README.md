@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Matti 👋
 
-<!--
-**mattire/mattire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer working with financial data APIs and .NET/WPF desktop applications.
 
-Here are some ideas to get you started:
+## 🔧 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[SimpleWpfPropertyGrid](https://github.com/mattire/SimpleWpfPropertyGrid)**
+A lightweight WPF property grid control.
+
+**[ShortcutkeysLib](https://github.com/mattire/ShortcutkeysLib)**
+A library for managing keyboard shortcuts, with an accompanying example app (replace this link with its actual repo name/URL).
+
+**[IfcConvertColladaColorFix](https://github.com/mattire/IfcConvertColladaColorFix)** ⭐ 4
+Python scripts that restore colors lost when converting `.ifc` files to `.dae` (Collada) files with the IfcConvert tool.
+
+## 🤝 Open Source Contributions
+
+- [realXtend/tundra](https://github.com/realXtend/tundra) — contributed to this open-source 3D virtual world engine.
+
+## 📫 Reach me
+
+<!-- Add your links here, e.g. LinkedIn, personal site, email -->
