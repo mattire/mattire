@@ -1,7 +1,5 @@
 # Hi, I'm Matti 👋
 
-Developer working with financial data APIs and .NET/WPF desktop applications.
-
 ## 🔧 Projects
 
 **[SimpleWpfPropertyGrid](https://github.com/mattire/SimpleWpfPropertyGrid)**
