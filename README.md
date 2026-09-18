@@ -22,4 +22,6 @@ Python scripts that restore colors lost when converting `.ifc` files to `.dae` (
 
 ## 📫 Reach me
 
+**[LinkedIn](https://www.linkedin.com/in/matti-reijonen-84b735b6/)**
+
 <!-- Add your links here, e.g. LinkedIn, personal site, email -->
